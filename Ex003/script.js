@@ -1,3 +1,3 @@
-console.log('Aspas simples')
-console.log("Aspas duplas")
-console.log(`Template literals`)
+console.log(10 > 10)
+console.log(10<=10)
+console.log(10 != 10)
