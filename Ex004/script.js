@@ -1,3 +1,3 @@
-console.log('Aspas simples')
-console.log("Aspas duplas")
-console.log(`Template literals`)
+console.log((1>=1)&&("Jorge" != "Romário"))
+console.log(0< 10 || 15< 20)
+console.log(!(10<=3))
